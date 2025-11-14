@@ -1,6 +1,7 @@
-# Qap-3-assignment
+# Description: 
+Quality Assurance Project 3 assignment combining multiple programming concepts and best practices.
 
-
+----
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
